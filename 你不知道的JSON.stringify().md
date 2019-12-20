@@ -131,3 +131,7 @@ deepClone(obj)
  ##### JSON.stringify() 第九大特性总结
  
  JSON.stringify() 第二个、第三个参数。 <br/>[replacer 参数](https://juejin.im/post/5decf09de51d45584d238319)
+
+```
+JSON.stringify(value[, replacer[, space]])
+```
